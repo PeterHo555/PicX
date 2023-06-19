@@ -1,2 +1,2 @@
-# PicX
-PicX图床
+# PicGo
+PicGo图床
